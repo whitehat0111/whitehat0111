@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whitehat0111
-- 👀 I’m interested in software engineering and development, hacking, pen testing, Information Security and DevSecOps
+- 👀 I’m a Software Engineer who enjoys hacking, pen testing, Information Security, DevSecOps and Machine Learning
 - 🌱 I’m currently learning as much as I can about all of these
 
 <!---
